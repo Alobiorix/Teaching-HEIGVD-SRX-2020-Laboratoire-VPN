@@ -174,6 +174,9 @@ Pour déclencher et pratiquer les captures vous allez « pinger » votre routeur
 
 **Screenshots :**  
 
+![Q3 R1 debug](images/Q3_debug.jpg)
+![Q3 R2 wireshark](images/Q3_wireshark.jpg)
+
 ---
 
 ## Configuration VPN LAN 2 LAN
