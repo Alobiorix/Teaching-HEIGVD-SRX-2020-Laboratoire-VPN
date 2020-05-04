@@ -108,7 +108,9 @@ Un « protocol » différent de `up` indique la plupart du temps que l’interfa
 
 ---
 
-**Réponse :**  
+**Réponse :** 
+
+Non, les status de toutes les connexions sont sur "up", tout semble bien fonctionner.
 
 ---
 
@@ -145,7 +147,9 @@ Pour votre topologie il est utile de contrôler la connectivité entre :
 
 ---
 
-**Réponse :**  
+**Réponse :** 
+
+Oui tout nos ping sont bien passé. Je supose que nous aurions eu un problème entre R2 et VPC si nous n'avions pas déjà fait la commande `ip dhcp` sur VPC avant cette question car VPC n'avait pas reçu d'ip.
 
 ---
 
