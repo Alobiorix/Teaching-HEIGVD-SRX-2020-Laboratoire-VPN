@@ -407,7 +407,7 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 
 le mode tunnel est utilisé car nous l'avons défini avant dans les commandes somme STRONG et par défaut le mode Transport.
 
- 								![Q9_capture](\images\Q9_capture.png)
+ 								![Q9 capture](images/Q9_capture.png)
 
 ---
 
@@ -417,7 +417,7 @@ le mode tunnel est utilisé car nous l'avons défini avant dans les commandes so
 
 **Réponse :**  L'entier du paquet est chiffré en mode Tunnel.  L'algorithme de cryptographique : AES 192 bits.
 
-![Q19_capture](images\Q10_capture.png)
+![Q19_capture](images/Q10_capture.png)
 
 
 
@@ -429,7 +429,7 @@ le mode tunnel est utilisé car nous l'avons défini avant dans les commandes so
 
 **Réponse :**  Les parties authentifiées sont le header ESP et l'ensemble du paquet. L'algorithme de cryptographique : HMAC avec SHA1. 
 
-![Q11_capture](images\Q11_capture.png)
+![Q11_capture](images/Q11_capture.png)
 
 ---
 
