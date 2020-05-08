@@ -389,7 +389,11 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 
 ---
 
-**Réponse :**  Le protocole VPN utilisé est ESP
+**Réponse :**  Le protocole VPN utilisé est ESP, on voit sur la capture du Wireshark.
+
+![Q9 wireshark](images/Q9_wireshark.jpg)
+
+
 
 ---
 
@@ -397,7 +401,11 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 
 ---
 
-**Réponse :**  
+**Réponse :** 
+
+le mode tunnel est utilisé car nous l'avons défini avant dans les commandes somme STRONG et par défaut le mode Transport.
+
+ ![image-20200508184455056](\images\image-20200508184455056.png)
 
 ---
 
@@ -408,7 +416,6 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 **Réponse :**  L'entier du paquet est chiffré.  L'algorithme de cryptographique : AES 192 bits.
 
 ---
-
 
 **Question 11: Expliquez quelles sont les parties du paquet qui sont authentifiées. Donnez l’algorithme cryptographique correspondant.**
 
