@@ -386,7 +386,6 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 
 ---
 
-
 **Question 9: Expliquez si c’est un mode tunnel ou transport.**
 
 ---
@@ -394,7 +393,6 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 **Réponse :**  
 
 ---
-
 
 **Question 10: Expliquez quelles sont les parties du paquet qui sont chiffrées. Donnez l’algorithme cryptographique correspondant.**
 
@@ -409,7 +407,7 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 
 ---
 
-**Réponse :**  
+**Réponse :**  Les parties authentifiées sont le header ESP et l'ensemble du paquet. L'algorithme de cryptographique : HMAC avec SHA1. 
 
 ---
 
