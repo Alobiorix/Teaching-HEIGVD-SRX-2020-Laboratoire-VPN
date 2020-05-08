@@ -407,7 +407,7 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 
 le mode tunnel est utilisé car nous l'avons défini avant dans les commandes somme STRONG et par défaut le mode Transport.
 
- 								![question9_capture](images/question9_capture.png)
+ ![capture9](images/capture9.png)
 
 ---
 
