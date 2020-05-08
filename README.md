@@ -358,7 +358,14 @@ Pensez à démarrer votre sniffer sur la sortie du routeur R2 vers internet avan
 
 ---
 
-**Réponse :**  
+**Réponse :** 
+
+Tout d'abord on constate via la capture ci-dessous que ça fonctionne :
+![Q6 VPCS](images/Q6_VPCS.jpg)
+
+On peut voir plus en détail que tout c'est bien passé dans les deux prochaines captures:
+![Q6 R1](images/Q6_R1.jpg)
+![Q6 wireshark](images/Q6_wireshark.jpg)
 
 ---
 
