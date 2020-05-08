@@ -1,3 +1,5 @@
+Nom des auteurs : Diluckshan Ravindranathan,  Eric Noel
+
 # Teaching-HEIGVD-SRX-2020-Laboratoire-VPN
 
 **Ce travail de laboratoire est à faire en équipes de 3 personnes**
@@ -405,7 +407,7 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 
 le mode tunnel est utilisé car nous l'avons défini avant dans les commandes somme STRONG et par défaut le mode Transport.
 
- ![image-20200508184455056](\images\image-20200508184455056.png)
+ 								![Q9_capture](\images\Q9_capture.png)
 
 ---
 
@@ -413,7 +415,11 @@ le mode tunnel est utilisé car nous l'avons défini avant dans les commandes so
 
 ---
 
-**Réponse :**  L'entier du paquet est chiffré.  L'algorithme de cryptographique : AES 192 bits.
+**Réponse :**  L'entier du paquet est chiffré en mode Tunnel.  L'algorithme de cryptographique : AES 192 bits.
+
+![Q19_capture](images\Q10_capture.png)
+
+
 
 ---
 
@@ -422,6 +428,8 @@ le mode tunnel est utilisé car nous l'avons défini avant dans les commandes so
 ---
 
 **Réponse :**  Les parties authentifiées sont le header ESP et l'ensemble du paquet. L'algorithme de cryptographique : HMAC avec SHA1. 
+
+![Q11_capture](images\Q11_capture.png)
 
 ---
 
