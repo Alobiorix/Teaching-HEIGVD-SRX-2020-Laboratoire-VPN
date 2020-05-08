@@ -248,6 +248,11 @@ Vous pouvez consulter l’état de votre configuration IKE avec les commandes su
 
 **Réponse :**  
 
+![Q4 R1](images/Q4_R1.jpg)
+![Q4 R2](images/Q4_R2.jpg)
+
+En affichant l'état de notre configuration on constate que tout semble avoir bien fonctionné et correspond aux commandes que nous avons exécuté précédemment.
+
 ---
 
 
@@ -255,7 +260,12 @@ Vous pouvez consulter l’état de votre configuration IKE avec les commandes su
 
 ---
 
-**Réponse :**  
+**Réponse :**
+
+![Q5 R1](images/Q5_R1.jpg)
+![Q5 R2](images/Q5_R2.jpg)
+
+En affichant l'état de notre configuration on constate que tout semble avoir bien fonctionné et correspond aux commandes que nous avons exécuté précédemment.
 
 ---
 
