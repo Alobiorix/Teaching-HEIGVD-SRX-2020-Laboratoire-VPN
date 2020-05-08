@@ -423,6 +423,6 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 
 ---
 
-**Réponse :**  
+**Réponse :**  L'ensemble du paquet est protégé. L'algorithme cryptographique est SHA-1.
 
 ---
