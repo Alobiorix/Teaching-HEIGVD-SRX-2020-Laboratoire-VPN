@@ -382,7 +382,7 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 
 ---
 
-**Réponse :**  
+**Réponse :**  Le protocole VPN utilisé est ESP
 
 ---
 
@@ -400,7 +400,7 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 
 ---
 
-**Réponse :**  
+**Réponse :**  L'entier du paquet est chiffré.  L'algorithme de cryptographique : AES 192 bits.
 
 ---
 
