@@ -30,8 +30,8 @@ Dans ce travail de laboratoire, vous allez configurer des routeurs Cisco émulé
 -	Capture Sniffer avec filtres précis sur la communication à épier
 -	Activation du mode « debug » pour certaines fonctions du routeur
 -	Observation des protocoles IPSec
- 
- 
+
+
 ## Matériel
 
 La manière la plus simple de faire ce laboratoire est dans les machines des salles de labo. Le logiciel d'émulation c'est eve-ng. Vous trouverez un [guide très condensé](files/Fonctionnement_EVE-NG.pdf) pour l'utilisation de eve-ng ici.
@@ -367,6 +367,8 @@ Pensez à démarrer votre sniffer sur la sortie du routeur R2 vers internet avan
 ---
 
 **Réponse :**  
+
+Lors de re-établissement d'un tunnel les timers lifetime sont utilisés pour le maîtriser. Sans ces timers configurés, le tunnel IPsec perdera sa connexion quand le timer s'expire.
 
 ---
 
