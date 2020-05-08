@@ -393,7 +393,7 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 
 **Réponse :**  Le protocole VPN utilisé est ESP, on voit sur la capture du Wireshark.
 
-![Q9 wireshark](images/Q9_wireshark.jpg)
+![Q8 wireshark](images/Q8_wireshark.jpg)
 
 
 
@@ -407,7 +407,7 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 
 le mode tunnel est utilisé car nous l'avons défini avant dans les commandes somme STRONG et par défaut le mode Transport.
 
- 								![Q9_capture](images/Q9_capture.png)
+ 								![question9_capture](images/question9_capture.png)
 
 ---
 
