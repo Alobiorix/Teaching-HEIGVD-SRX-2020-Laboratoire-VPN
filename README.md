@@ -368,7 +368,7 @@ Pensez à démarrer votre sniffer sur la sortie du routeur R2 vers internet avan
 
 **Réponse :**  
 
-Lors de re-établissement d'un tunnel les timers lifetime sont utilisés pour le maîtriser. Sans ces timers configurés, le tunnel IPsec perdera sa connexion quand le timer s'expire.
+IPsec utilise liftimes pour contrôler quand le tunnel doit être re-établit. Lorsque les lifetimes sont mal configurés, le tunnel Ipsec établit une connection mais le perd quand le timer s'expire.
 
 ---
 
