@@ -440,6 +440,8 @@ Le mode tunnel est utilisé car nous l'avons défini précédemment dans les com
 
 ---
 
-**Réponse :**  L'ensemble du paquet est protégé. L'algorithme cryptographique est SHA-1.
+**Réponse :**  L'ensemble du paquet est protégé.  L'algorithme cryptographique est SHA-1.
+
+source : help.fortinet.com
 
 ---
