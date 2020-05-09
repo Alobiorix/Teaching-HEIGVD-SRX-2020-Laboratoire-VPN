@@ -377,7 +377,9 @@ On peut voir plus en détail que tout c'est bien passé dans les deux prochaines
 
 **Réponse :**  
 
-IPsec utilise liftimes pour contrôler quand le tunnel doit être re-établit. Lorsque les lifetimes sont mal configurés, le tunnel Ipsec établit une connection mais le perd quand le timer s'expire.
+IKE utilise les timers lifetime pour contrôler quand de nouvelle SA doivent être négociée.
+IPsec utilise les timers lifetime pour contrôler quand le tunnel doit être re-établit.
+Si les lifetimes sont mal configurés, le tunnel Ipsec établit une connection mais peut la perdre quand un des timers expire.
 
 ---
 
