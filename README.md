@@ -377,9 +377,9 @@ On peut voir plus en détail que tout c'est bien passé dans les deux prochaines
 
 **Réponse :**  
 
-IKE utilise les timers lifetime pour contrôler quand de nouvelle SA doivent être négociée.
+IKE utilise les timers lifetime pour contrôler quand de nouvelles SA doivent être négociées.
 IPsec utilise les timers lifetime pour contrôler quand le tunnel doit être re-établit.
-Si les lifetimes sont mal configurés, le tunnel Ipsec établit une connection mais peut la perdre quand un des timers expire.
+Si les lifetimes sont mal configurés, le tunnel Ipsec établit une connexion mais peut la perdre quand un des timers expire.
 
 ---
 
@@ -407,7 +407,7 @@ En vous appuyant sur les notions vues en cours et vos observations en laboratoir
 
 **Réponse :** 
 
-le mode tunnel est utilisé car nous l'avons défini avant dans les commandes somme STRONG et par défaut le mode Transport.
+Le mode tunnel est utilisé car nous l'avons défini précédemment dans les commandes du transform-set STRONG que nous utilisons.
 
  ![capture9](images/capture9.png)
 
